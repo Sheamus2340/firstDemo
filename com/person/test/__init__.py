@@ -10,7 +10,7 @@
 """
 
 # 单行注释
-print("hello world!!")
+print("hello world!!")  # 注释
 '''
 多行注释
 '''

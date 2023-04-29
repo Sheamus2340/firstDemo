@@ -29,6 +29,8 @@ print("大家好，我叫%s，来自%s，今年%d岁" % (name, classPro, age))
 name = "张三"
 print("你好{}".format(name))
 
+print("中国{1},{0}".format(name, classPro))
+
 """
 输入：
 1. 接收键盘的输入： input() 方法
